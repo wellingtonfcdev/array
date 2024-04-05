@@ -1,0 +1,14 @@
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\bin\Debug\net8.0\ARRAY.exe
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\bin\Debug\net8.0\ARRAY.deps.json
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\bin\Debug\net8.0\ARRAY.runtimeconfig.json
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\bin\Debug\net8.0\ARRAY.dll
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\bin\Debug\net8.0\ARRAY.pdb
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.AssemblyInfoInputs.cache
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.AssemblyInfo.cs
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.dll
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\refint\ARRAY.dll
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.pdb
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.genruntimeconfig.cache
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ref\ARRAY.dll
