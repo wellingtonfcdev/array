@@ -1,4 +1,16 @@
-﻿
+﻿int[] arrayCopia = new int[4];
+
+arrayCopia[0] = 72;
+arrayCopia[1] = 64;
+arrayCopia[2] = 50;
+arrayCopia[3] = 1;
+
+//Copiando um array para outro
+int[] arrayDobrado = new int[arrayCopia.Length * 2];
+Array.Copy(arrayCopia, arrayDobrado, arrayCopia.Length);
+
+
+
 int[] arrayInteiros = new int[4];
 
 arrayInteiros[0] = 72;
