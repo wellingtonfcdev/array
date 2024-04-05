@@ -12,3 +12,4 @@ C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\refint\AR
 C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.pdb
 C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.genruntimeconfig.cache
 C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ref\ARRAY.dll
+C:\Users\wellington.costa\Documents\PROJETOS\C#\ARRAY\obj\Debug\net8.0\ARRAY.sourcelink.json
