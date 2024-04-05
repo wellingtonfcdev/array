@@ -6,6 +6,7 @@ arrayInteiros[1] = 64;
 arrayInteiros[2] = 50;
 arrayInteiros[3] = 1;
 
+Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
 
 Console.WriteLine("percorrendo o array com o For");
 for(int contador = 0; contador < arrayInteiros.Length; contador++)

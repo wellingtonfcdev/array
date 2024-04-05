@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj": {}
+    "c:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj": {
+    "c:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj",
+        "projectUniqueName": "c:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj",
         "projectName": "ARRAY",
-        "projectPath": "C:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj",
+        "projectPath": "c:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\ARRAY.csproj",
         "packagesPath": "C:\\Users\\wellington.costa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\obj\\",
+        "outputPath": "c:\\Users\\wellington.costa\\Documents\\PROJETOS\\C#\\ARRAY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wellington.costa\\AppData\\Roaming\\NuGet\\NuGet.Config"
