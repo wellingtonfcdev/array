@@ -1,4 +1,27 @@
-﻿int[] arrayCopia = new int[4];
+﻿//Lista
+Console.WriteLine("Lista com for");
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+
+for(int contadorLista = 0; contadorLista < listaString.Count; contadorLista++)
+{
+    Console.WriteLine($"Posição Nº {contadorLista} - {listaString[contadorLista]}");
+}
+
+Console.WriteLine("\nPercorrendo a lista com ForEach");
+int contadorListaForeach = 0;
+foreach(string item in listaString)
+{
+    Console.WriteLine($"Posição Nº {contadorListaForeach} - {item}");
+}
+
+
+
+Console.WriteLine("\nCopiando um array para outro");
+int[] arrayCopia = new int[4];
 
 arrayCopia[0] = 72;
 arrayCopia[1] = 64;
